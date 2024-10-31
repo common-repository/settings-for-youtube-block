@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Settings for YouTube block\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-06 12:54+0000\n"
+"PO-Revision-Date: 2021-04-06 13:03+0000\n"
+"Last-Translator: \n"
+"Language-Team: Svenska\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7\n"
+"X-Domain: settings_for_youtube_block"
+
+#: inc/settings-settings-for-youtube-block.php:85
+msgid "Advanced settings"
+msgstr "Avancerade inställningar"
+
+#: inc/settings-settings-for-youtube-block.php:52
+msgid "Basic settings"
+msgstr "Grundläggande inställningar"
+
+#: inc/settings-settings-for-youtube-block.php:110
+msgid "Causes the player to not respond to keyboard controls."
+msgstr "Får spelaren att inte svara på tangentbords-kontroller."
+
+#: inc/settings-settings-for-youtube-block.php:146
+msgid "Causes video annotations to not be shown."
+msgstr "Döljer video-annoteringar."
+
+#: inc/settings-settings-for-youtube-block.php:96
+msgid "Disable controls"
+msgstr "Inaktivera kontroller "
+
+#: inc/settings-settings-for-youtube-block.php:108
+msgid "Disable keyboard"
+msgstr "Inaktivera tangentbord"
+
+#: inc/settings-settings-for-youtube-block.php:120
+msgid "Enable js API"
+msgstr "Aktivera js API "
+
+#: inc/settings-settings-for-youtube-block.php:122
+msgid "Enables the player to be controlled via IFrame Player API calls."
+msgstr "Gör att spelaren kan kontrolleras via IFrame Player API-anrop. "
+
+#. Description of the plugin
+msgid ""
+"Get rid of YouTube logo while playing, and also only show related videos "
+"from same channel. Great when you're embedding your own videos and don't "
+"want to show your competitors videos when the user pauses and after the "
+"video is done."
+msgstr ""
+"Bli av med YouTube-loggan medan videon spelas, och visa bara relaterade "
+"videor från samma kanal. Bra när du bäddar in dina egna videor och inte vill "
+"visa dina konkurrenters videor när användaren pausar och efter att videon är "
+"klar."
+
+#. Author URI of the plugin
+msgid "https://plugins.followmedarling.se/"
+msgstr "https://plugins.followmedarling.se/"
+
+#. URI of the plugin
+msgid "https://plugins.followmedarling.se/settings-for-youtube-block/"
+msgstr "https://plugins.followmedarling.se/settings-for-youtube-block/"
+
+#: inc/settings-settings-for-youtube-block.php:98
+msgid "Indicates whether the video player controls are displayed."
+msgstr "Indikerar om videospelarens kontroller visas. "
+
+#: inc/settings-settings-for-youtube-block.php:156
+msgid "Inline on iOS"
+msgstr "Inline på iOS "
+
+#. Author of the plugin
+msgid "Jonk @ Follow me Darling"
+msgstr "Jonk @ Follow me Darling"
+
+#: inc/settings-settings-for-youtube-block.php:65
+msgid "Lets you use a YouTube player that does not show a YouTube logo."
+msgstr ""
+"Låter dig använda en YouTube-spelare som inte visar en YouTube-logotyp. "
+
+#: inc/settings-settings-for-youtube-block.php:63
+msgid "Modest branding"
+msgstr "Ingen YouTube-logga"
+
+#: inc/settings-settings-for-youtube-block.php:144
+msgid "No annotations"
+msgstr "Inga annoteringar"
+
+#: inc/settings-settings-for-youtube-block.php:132
+msgid "No fullscreen"
+msgstr "Ingen fullskärm"
+
+#: inc/settings-settings-for-youtube-block.php:134
+msgid "Prevents the fullscreen button from displaying in the player."
+msgstr "Förhindrar att helskärmsknappen visas i spelaren. "
+
+#: inc/settings-settings-for-youtube-block.php:75
+msgid "Related"
+msgstr "Relaterat"
+
+#: inc/settings-settings-for-youtube-block.php:77
+msgid ""
+"Related videos will come from the same channel as the video that was just "
+"played."
+msgstr ""
+"Relaterade videor kommer från samma kanal som videon som just spelades."
+
+#: inc/settings-settings-for-youtube-block.php:167
+msgid "Reset to default"
+msgstr "Återställ till default"
+
+#: inc/settings-settings-for-youtube-block.php:166
+msgid "Save Settings"
+msgstr "Spara inställningar"
+
+#. Name of the plugin
+#: inc/settings-settings-for-youtube-block.php:6
+#: inc/settings-settings-for-youtube-block.php:46
+msgid "Settings for YouTube block"
+msgstr "Settings for YouTube block"
+
+#: inc/settings-settings-for-youtube-block.php:47
+msgid "The settings will affect all YouTube blocks."
+msgstr "Inställningarna påverkar alla YouTube-block."
+
+#: inc/settings-settings-for-youtube-block.php:158
+msgid "Videos play inline in an HTML5 player on iOS."
+msgstr "Videor spelas in i en HTML5-spelare på iOS. "
+
+#: inc/settings-settings-for-youtube-block-update-options.php:45
+msgid "Your settings are now updated"
+msgstr "Dina inställningar är nu uppdaterade"
